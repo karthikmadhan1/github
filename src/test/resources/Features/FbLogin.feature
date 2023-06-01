@@ -11,5 +11,4 @@ Feature: Validate the Login Page
     |7200604855|balajirocks|
     Then I validate the outcomes
     And close the window
-
   
