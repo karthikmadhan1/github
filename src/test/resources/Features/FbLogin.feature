@@ -10,6 +10,5 @@ Feature: Validate the Login Page
     |8015191938|karthikeyan|
     |7200604855|balajirocks|
     Then I validate the outcomes
-    And close the browser
-
+    And close the window
   
